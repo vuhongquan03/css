@@ -1,0 +1,8 @@
+{
+    "name": "socialapparatus-bootstrap-theme",
+    "description": "Twitter Bootstrap Theme for Elgg",
+    "dependencies": {
+        "bootstrap": "*",
+        "bootstrap-select": "*"
+    }
+}
