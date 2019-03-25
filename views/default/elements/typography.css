@@ -1,0 +1,45 @@
+/**
+ * Twitter&reg; Bootstrap 4.1 Theme for Elgg
+ *
+ * Converts all Elgg css elements to Twitter&reg; Bootstrap elements.  Helps 
+ * Designers create beautiful Bootstrap themes for Elgg.
+ *
+ * @category   Elgg Themes
+ * @author     Shane Barron <admin@socia.us>
+ * @copyright  2018 SocialApparatus / ElggDesign
+ * @version    1.0
+ * @link       http://socia.us
+ */
+.elgg-output {
+    margin-top: 10px;
+}
+
+.elgg-output dt { font-weight: bold }
+.elgg-output dd { margin: 0 0 1em 1em }
+
+.elgg-output ul, .elgg-output ol {
+    margin: 0 1.5em 1.5em 0;
+    padding-left: 1.5em;
+}
+.elgg-output ul {
+    list-style-type: disc;
+}
+.elgg-output ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+    padding-left: .4em;
+}
+.elgg-output table {
+    border: 1px solid #DCDCDC;
+}
+.elgg-output table td {
+    border: 1px solid #DCDCDC;
+    padding: 3px 5px;
+}
+.elgg-output img {
+    max-width: 100%;
+    height: auto;
+}
+h3 {
+    margin-top:0px;
+}
